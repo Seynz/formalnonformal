@@ -2,4 +2,4 @@
 app1.py
 tokenization/
 bert_model/
-_pycache_/
+__pycache__/
